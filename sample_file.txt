@@ -1,0 +1,1 @@
+I really hope that's only needed and I don't need to change Java code. Btw I don't have right now any JDK on my pc. 
